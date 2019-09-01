@@ -1,1 +1,3 @@
 # istqb
+
+# Wykłady z zajęć
