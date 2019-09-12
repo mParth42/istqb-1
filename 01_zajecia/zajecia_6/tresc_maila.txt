@@ -1,0 +1,12 @@
+Cześć, w załączniku przesyłam Wam wczorajszą prezentację dotyczącą testów eksploracyjnych.
+
+Ważne:
+1.	Po prezentacji rozpoczęliśmy testy REST API dostępnego pod adresem  https://gorest.co.in/. W celu korzystania z niego konieczne jest, abyście najpierw założyli konto na  https://github.com/, przy pomocy tego konta logujecie się do gorest i macie wygenerowany token do uwierzytelnienia - wszystko jest opisane na ich stronie.
+2.	Testy obejmowały 3 resource'y: /users, /posts, /comments
+3.	Pracowaliśmy w 3 osobowych grupach, w których każda osoba dostawała osobny resource, jutro będziemy kontynuować te prace i rozszerzymy je o coś dodatkowego (nie chodzi o testy kolejnego resource, jutro Wam powiem o co chodzi).
+4.	Jeśli chodzi o osoby, których wczoraj nie było - muszę przemyśleć, czy złożyć z nich osobną grupę czy może zostaną one rozdzielone między już istniejące - jeżeli pojawi się cała nieobecna wczoraj trójka, to myślę, że po prostu wystartujecie od zera, a ja najwyżej udzielę Wam wsparcia na początek. Ważne, żebyście mieli konto na github, Kasia musi sobie zainstalować program https://www.xmind.net/ (klikasz Free Download), na komputerach szkolnych wszystko jest już zainstalowane).
+5.	Jutrzejsze zajęcia będą uzupełnieniem i rozwinięciem zadania z wtorku, uważam, że dla każdego z Was będą one wartościowe.
+
+-- 
+Pozdrawiam,
+Mariusz Łazor
