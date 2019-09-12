@@ -1,3 +1,3 @@
 # istqb
 
-# Wykłady z zajęć
+# Wykłady z zajęć + treści ćwiczeń
